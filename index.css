@@ -1,0 +1,90 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+:root {
+	font-family: "Open Sans", sans-serif;
+}
+
+
+main {
+	width: 1120px;
+	height: 2700px;
+	margin: 60px auto 77px;
+	margin-top: 379px;
+	/*background-color: red;*/
+	padding: 10px;
+}
+
+.proximo {
+	margin-bottom: 10px;
+	margin-left: 7.8px
+}
+
+.busan {
+	margin-bottom: 40px;
+	margin-left: 4px
+}
+
+div {
+	color: red;
+	font-size: 16px;
+}
+
+h1 {
+	font-size: 36px;
+}
+
+.paragrafo-introdutorio {
+	margin: 24px 0 64px;
+}
+
+#Templo-busan h1 {
+	margin-bottom: 10px;
+}
+
+
+.paragrafo-busan {
+	margin-bottom: 64px
+}
+
+img {
+	margin-bottom: 14px;
+}
+
+.paragrafo-haedong {
+	margin-bottom: 24px;
+}
+
+#Templo-haedong ul {
+	margin-bottom: 48px;
+}
+
+.h1-do-haedong {
+	margin-bottom: 10px;
+}
+
+ul {
+	font-family: "Open Sans", sans-serif;
+	font-weight: bold;
+	margin-left: 2px;
+}
+
+ul li {
+	color: #0C51A7;
+	margin: 5px 24px;
+}
+
+#Templo-beomeo h1 {
+	margin-bottom: 10px;
+}
+
+.paragrafo-beomeo {
+	margin-bottom: 20px
+}
+
+p + ul {
+	margin-bottom: 48px;
+}
+
