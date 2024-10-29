@@ -10,8 +10,8 @@
 
 main {
 	width: 1120px;
-	height: 2700px;
-	margin: 60px auto 77px;
+	height: 2903px;
+	margin: 0px auto 200px;
 	margin-top: 379px;
 	/*background-color: red;*/
 	padding: 10px;
@@ -88,3 +88,28 @@ p + ul {
 	margin-bottom: 48px;
 }
 
+#Parque-yongdusan h1 {
+	margin-bottom: 10px;
+}
+
+#Parque-yongdusan h1 + p {
+	margin-bottom: 25px;
+}
+
+
+.roxo {
+	color: #591B98;
+}
+.rosa {
+	color: #E5245E;
+}
+.laranja {
+	color: #E95E10;
+}
+
+footer {
+	color: black;
+	text-align: center;
+	position: relative;
+	top: -76px;
+}
